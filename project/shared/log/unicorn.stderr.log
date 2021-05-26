@@ -3707,3 +3707,422 @@ Bad request content body
 Bad request content body
 Bad request content body
 Bad request content body
+I, [2021-05-26T13:00:45.017224 #31148]  INFO -- : reaped #<Process::Status: pid 31151 exit 0> worker=0
+I, [2021-05-26T13:00:45.017378 #31148]  INFO -- : reaped #<Process::Status: pid 31154 exit 0> worker=1
+I, [2021-05-26T13:00:45.017758 #31148]  INFO -- : master complete
+I, [2021-05-26T13:01:23.103287 #31219]  INFO -- : Refreshing Gem list
+I, [2021-05-26T13:01:27.065301 #31219]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T13:01:27.067577 #31219]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T13:01:27.068131 #31219]  INFO -- : worker=0 spawning...
+I, [2021-05-26T13:01:27.070326 #31219]  INFO -- : worker=1 spawning...
+I, [2021-05-26T13:01:27.071706 #31231]  INFO -- : worker=0 spawned pid=31231
+I, [2021-05-26T13:01:27.073188 #31219]  INFO -- : master process ready
+I, [2021-05-26T13:01:27.078542 #31231]  INFO -- : worker=0 ready
+I, [2021-05-26T13:01:27.079902 #31234]  INFO -- : worker=1 spawned pid=31234
+I, [2021-05-26T13:01:27.082892 #31234]  INFO -- : worker=1 ready
+I, [2021-05-26T13:03:19.719407 #31219]  INFO -- : reaped #<Process::Status: pid 31231 exit 0> worker=0
+I, [2021-05-26T13:03:19.719560 #31219]  INFO -- : reaped #<Process::Status: pid 31234 exit 0> worker=1
+I, [2021-05-26T13:03:19.719645 #31219]  INFO -- : master complete
+I, [2021-05-26T13:04:42.648497 #31491]  INFO -- : Refreshing Gem list
+I, [2021-05-26T13:04:45.018532 #31491]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T13:04:45.020809 #31491]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T13:04:45.021386 #31491]  INFO -- : worker=0 spawning...
+I, [2021-05-26T13:04:45.023715 #31491]  INFO -- : worker=1 spawning...
+I, [2021-05-26T13:04:45.025344 #31491]  INFO -- : master process ready
+I, [2021-05-26T13:04:45.031256 #31504]  INFO -- : worker=0 spawned pid=31504
+I, [2021-05-26T13:04:45.031931 #31504]  INFO -- : worker=0 ready
+I, [2021-05-26T13:04:45.035341 #31506]  INFO -- : worker=1 spawned pid=31506
+I, [2021-05-26T13:04:45.036052 #31506]  INFO -- : worker=1 ready
+I, [2021-05-26T13:06:39.224785 #31491]  INFO -- : reaped #<Process::Status: pid 31504 exit 0> worker=0
+I, [2021-05-26T13:06:39.224923 #31491]  INFO -- : reaped #<Process::Status: pid 31506 exit 0> worker=1
+I, [2021-05-26T13:06:39.224997 #31491]  INFO -- : master complete
+I, [2021-05-26T13:08:21.926893 #31835]  INFO -- : Refreshing Gem list
+I, [2021-05-26T13:08:24.313496 #31835]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T13:08:24.315750 #31835]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T13:08:24.316343 #31835]  INFO -- : worker=0 spawning...
+I, [2021-05-26T13:08:24.318663 #31835]  INFO -- : worker=1 spawning...
+I, [2021-05-26T13:08:24.320032 #31844]  INFO -- : worker=0 spawned pid=31844
+I, [2021-05-26T13:08:24.321623 #31835]  INFO -- : master process ready
+I, [2021-05-26T13:08:24.326842 #31844]  INFO -- : worker=0 ready
+I, [2021-05-26T13:08:24.328153 #31847]  INFO -- : worker=1 spawned pid=31847
+I, [2021-05-26T13:08:24.328774 #31847]  INFO -- : worker=1 ready
+I, [2021-05-26T13:10:10.948662 #31835]  INFO -- : reaped #<Process::Status: pid 31844 exit 0> worker=0
+I, [2021-05-26T13:10:10.948814 #31835]  INFO -- : reaped #<Process::Status: pid 31847 exit 0> worker=1
+I, [2021-05-26T13:10:10.948891 #31835]  INFO -- : master complete
+I, [2021-05-26T13:10:15.092952 #32071]  INFO -- : Refreshing Gem list
+I, [2021-05-26T13:10:17.389942 #32071]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T13:10:17.392944 #32071]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T13:10:17.393069 #32071]  INFO -- : worker=0 spawning...
+I, [2021-05-26T13:10:17.395325 #32071]  INFO -- : worker=1 spawning...
+I, [2021-05-26T13:10:17.396757 #32071]  INFO -- : master process ready
+I, [2021-05-26T13:10:17.402292 #32080]  INFO -- : worker=0 spawned pid=32080
+I, [2021-05-26T13:10:17.416952 #32080]  INFO -- : worker=0 ready
+I, [2021-05-26T13:10:17.414313 #32082]  INFO -- : worker=1 spawned pid=32082
+I, [2021-05-26T13:10:17.418213 #32082]  INFO -- : worker=1 ready
+I, [2021-05-26T13:14:49.442662 #32071]  INFO -- : reaped #<Process::Status: pid 32080 exit 0> worker=0
+I, [2021-05-26T13:14:49.443827 #32071]  INFO -- : reaped #<Process::Status: pid 32082 exit 0> worker=1
+I, [2021-05-26T13:14:49.443920 #32071]  INFO -- : master complete
+I, [2021-05-26T13:15:31.559982 #32491]  INFO -- : Refreshing Gem list
+I, [2021-05-26T13:15:33.876739 #32491]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T13:15:33.879494 #32491]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T13:15:33.879616 #32491]  INFO -- : worker=0 spawning...
+I, [2021-05-26T13:15:33.881837 #32491]  INFO -- : worker=1 spawning...
+I, [2021-05-26T13:15:33.883637 #32491]  INFO -- : master process ready
+I, [2021-05-26T13:15:33.888830 #32500]  INFO -- : worker=0 spawned pid=32500
+I, [2021-05-26T13:15:33.889471 #32500]  INFO -- : worker=0 ready
+I, [2021-05-26T13:15:33.891338 #32503]  INFO -- : worker=1 spawned pid=32503
+I, [2021-05-26T13:15:33.904976 #32503]  INFO -- : worker=1 ready
+I, [2021-05-26T13:21:24.239548 #32491]  INFO -- : reaped #<Process::Status: pid 32500 exit 0> worker=0
+I, [2021-05-26T13:21:24.239676 #32491]  INFO -- : reaped #<Process::Status: pid 32503 exit 0> worker=1
+I, [2021-05-26T13:21:24.239746 #32491]  INFO -- : master complete
+I, [2021-05-26T13:21:38.143674 #417]  INFO -- : Refreshing Gem list
+I, [2021-05-26T13:21:40.460151 #417]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T13:21:40.462232 #417]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T13:21:40.463449 #417]  INFO -- : worker=0 spawning...
+I, [2021-05-26T13:21:40.465448 #417]  INFO -- : worker=1 spawning...
+I, [2021-05-26T13:21:40.466969 #417]  INFO -- : master process ready
+I, [2021-05-26T13:21:40.472772 #426]  INFO -- : worker=0 spawned pid=426
+I, [2021-05-26T13:21:40.493550 #426]  INFO -- : worker=0 ready
+I, [2021-05-26T13:21:40.495443 #428]  INFO -- : worker=1 spawned pid=428
+I, [2021-05-26T13:21:40.496196 #428]  INFO -- : worker=1 ready
+I, [2021-05-26T13:28:47.447242 #417]  INFO -- : reaped #<Process::Status: pid 428 exit 0> worker=1
+I, [2021-05-26T13:28:47.547633 #417]  INFO -- : reaped #<Process::Status: pid 426 exit 0> worker=0
+I, [2021-05-26T13:28:47.547774 #417]  INFO -- : master complete
+I, [2021-05-26T13:28:50.036779 #777]  INFO -- : Refreshing Gem list
+I, [2021-05-26T13:28:52.325868 #777]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T13:28:52.327959 #777]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T13:28:52.328495 #777]  INFO -- : worker=0 spawning...
+I, [2021-05-26T13:28:52.331075 #777]  INFO -- : worker=1 spawning...
+I, [2021-05-26T13:28:52.332593 #777]  INFO -- : master process ready
+I, [2021-05-26T13:28:52.338376 #780]  INFO -- : worker=0 spawned pid=780
+I, [2021-05-26T13:28:52.354000 #780]  INFO -- : worker=0 ready
+I, [2021-05-26T13:28:52.353616 #782]  INFO -- : worker=1 spawned pid=782
+I, [2021-05-26T13:28:52.355279 #782]  INFO -- : worker=1 ready
+I, [2021-05-26T13:29:10.682143 #777]  INFO -- : reaped #<Process::Status: pid 780 exit 0> worker=0
+I, [2021-05-26T13:29:10.682257 #777]  INFO -- : reaped #<Process::Status: pid 782 exit 0> worker=1
+I, [2021-05-26T13:29:10.682324 #777]  INFO -- : master complete
+I, [2021-05-26T13:29:15.416197 #1025]  INFO -- : Refreshing Gem list
+I, [2021-05-26T13:29:17.727353 #1025]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T13:29:17.729502 #1025]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T13:29:17.730050 #1025]  INFO -- : worker=0 spawning...
+I, [2021-05-26T13:29:17.731986 #1025]  INFO -- : worker=1 spawning...
+I, [2021-05-26T13:29:17.733227 #1035]  INFO -- : worker=0 spawned pid=1035
+I, [2021-05-26T13:29:17.734646 #1025]  INFO -- : master process ready
+I, [2021-05-26T13:29:17.739008 #1035]  INFO -- : worker=0 ready
+I, [2021-05-26T13:29:17.741211 #1038]  INFO -- : worker=1 spawned pid=1038
+I, [2021-05-26T13:29:17.741815 #1038]  INFO -- : worker=1 ready
+I, [2021-05-26T13:31:50.856947 #1025]  INFO -- : reaped #<Process::Status: pid 1035 exit 0> worker=0
+I, [2021-05-26T13:31:50.857057 #1025]  INFO -- : reaped #<Process::Status: pid 1038 exit 0> worker=1
+I, [2021-05-26T13:31:50.857127 #1025]  INFO -- : master complete
+I, [2021-05-26T13:31:53.556838 #1439]  INFO -- : Refreshing Gem list
+I, [2021-05-26T13:31:55.854253 #1439]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T13:31:55.856254 #1439]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T13:31:55.856779 #1439]  INFO -- : worker=0 spawning...
+I, [2021-05-26T13:31:55.858831 #1439]  INFO -- : worker=1 spawning...
+I, [2021-05-26T13:31:55.860089 #1442]  INFO -- : worker=0 spawned pid=1442
+I, [2021-05-26T13:31:55.861417 #1439]  INFO -- : master process ready
+I, [2021-05-26T13:31:55.866500 #1442]  INFO -- : worker=0 ready
+I, [2021-05-26T13:31:55.867707 #1445]  INFO -- : worker=1 spawned pid=1445
+I, [2021-05-26T13:31:55.871139 #1445]  INFO -- : worker=1 ready
+I, [2021-05-26T13:33:27.111586 #1439]  INFO -- : reaped #<Process::Status: pid 1442 exit 0> worker=0
+I, [2021-05-26T13:33:27.111691 #1439]  INFO -- : reaped #<Process::Status: pid 1445 exit 0> worker=1
+I, [2021-05-26T13:33:27.111759 #1439]  INFO -- : master complete
+I, [2021-05-26T13:33:30.671267 #1720]  INFO -- : Refreshing Gem list
+I, [2021-05-26T13:33:32.962398 #1720]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T13:33:32.964430 #1720]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T13:33:32.964939 #1720]  INFO -- : worker=0 spawning...
+I, [2021-05-26T13:33:32.966865 #1720]  INFO -- : worker=1 spawning...
+I, [2021-05-26T13:33:32.968130 #1723]  INFO -- : worker=0 spawned pid=1723
+I, [2021-05-26T13:33:32.969669 #1720]  INFO -- : master process ready
+I, [2021-05-26T13:33:32.974922 #1723]  INFO -- : worker=0 ready
+I, [2021-05-26T13:33:32.976360 #1726]  INFO -- : worker=1 spawned pid=1726
+I, [2021-05-26T13:33:32.978890 #1726]  INFO -- : worker=1 ready
+I, [2021-05-26T13:58:52.980772 #1720]  INFO -- : reaped #<Process::Status: pid 1723 exit 0> worker=0
+I, [2021-05-26T13:58:52.980908 #1720]  INFO -- : reaped #<Process::Status: pid 1726 exit 0> worker=1
+I, [2021-05-26T13:58:52.980978 #1720]  INFO -- : master complete
+I, [2021-05-26T13:58:59.311596 #2215]  INFO -- : Refreshing Gem list
+I, [2021-05-26T13:59:01.720811 #2215]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T13:59:01.722682 #2215]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T13:59:01.723262 #2215]  INFO -- : worker=0 spawning...
+I, [2021-05-26T13:59:01.725354 #2215]  INFO -- : worker=1 spawning...
+I, [2021-05-26T13:59:01.726580 #2224]  INFO -- : worker=0 spawned pid=2224
+I, [2021-05-26T13:59:01.727980 #2215]  INFO -- : master process ready
+I, [2021-05-26T13:59:01.733111 #2224]  INFO -- : worker=0 ready
+I, [2021-05-26T13:59:01.734409 #2227]  INFO -- : worker=1 spawned pid=2227
+I, [2021-05-26T13:59:01.736089 #2227]  INFO -- : worker=1 ready
+I, [2021-05-26T14:16:41.225909 #2215]  INFO -- : reaped #<Process::Status: pid 2224 exit 0> worker=0
+I, [2021-05-26T14:16:41.226026 #2215]  INFO -- : reaped #<Process::Status: pid 2227 exit 0> worker=1
+I, [2021-05-26T14:16:41.226151 #2215]  INFO -- : master complete
+I, [2021-05-26T14:16:58.430044 #2779]  INFO -- : Refreshing Gem list
+I, [2021-05-26T14:17:00.795196 #2779]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T14:17:00.796973 #2779]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T14:17:00.803221 #2779]  INFO -- : worker=0 spawning...
+I, [2021-05-26T14:17:00.805286 #2779]  INFO -- : worker=1 spawning...
+I, [2021-05-26T14:17:00.807550 #2789]  INFO -- : worker=0 spawned pid=2789
+I, [2021-05-26T14:17:00.810623 #2779]  INFO -- : master process ready
+I, [2021-05-26T14:17:00.815055 #2789]  INFO -- : worker=0 ready
+I, [2021-05-26T14:17:00.817240 #2792]  INFO -- : worker=1 spawned pid=2792
+I, [2021-05-26T14:17:00.818880 #2792]  INFO -- : worker=1 ready
+I, [2021-05-26T14:21:52.071600 #2779]  INFO -- : reaped #<Process::Status: pid 2789 exit 0> worker=0
+I, [2021-05-26T14:21:52.071715 #2779]  INFO -- : reaped #<Process::Status: pid 2792 exit 0> worker=1
+I, [2021-05-26T14:21:52.071782 #2779]  INFO -- : master complete
+I, [2021-05-26T14:22:02.857157 #3153]  INFO -- : Refreshing Gem list
+I, [2021-05-26T14:22:05.191794 #3153]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T14:22:05.193620 #3153]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T14:22:05.194113 #3153]  INFO -- : worker=0 spawning...
+I, [2021-05-26T14:22:05.196343 #3153]  INFO -- : worker=1 spawning...
+I, [2021-05-26T14:22:05.197593 #3162]  INFO -- : worker=0 spawned pid=3162
+I, [2021-05-26T14:22:05.199016 #3153]  INFO -- : master process ready
+I, [2021-05-26T14:22:05.202955 #3162]  INFO -- : worker=0 ready
+I, [2021-05-26T14:22:05.205460 #3165]  INFO -- : worker=1 spawned pid=3165
+I, [2021-05-26T14:22:05.206884 #3165]  INFO -- : worker=1 ready
+I, [2021-05-26T14:24:56.310226 #3153]  INFO -- : reaped #<Process::Status: pid 3162 exit 0> worker=0
+I, [2021-05-26T14:24:56.310334 #3153]  INFO -- : reaped #<Process::Status: pid 3165 exit 0> worker=1
+I, [2021-05-26T14:24:56.310402 #3153]  INFO -- : master complete
+I, [2021-05-26T14:25:24.700726 #3546]  INFO -- : Refreshing Gem list
+I, [2021-05-26T14:25:27.023811 #3546]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T14:25:27.025592 #3546]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T14:25:27.026066 #3546]  INFO -- : worker=0 spawning...
+I, [2021-05-26T14:25:27.028089 #3546]  INFO -- : worker=1 spawning...
+I, [2021-05-26T14:25:27.029225 #3549]  INFO -- : worker=0 spawned pid=3549
+I, [2021-05-26T14:25:27.031090 #3546]  INFO -- : master process ready
+I, [2021-05-26T14:25:27.035007 #3549]  INFO -- : worker=0 ready
+I, [2021-05-26T14:25:27.037193 #3552]  INFO -- : worker=1 spawned pid=3552
+I, [2021-05-26T14:25:27.038878 #3552]  INFO -- : worker=1 ready
+I, [2021-05-26T14:26:05.163491 #3546]  INFO -- : reaped #<Process::Status: pid 3552 exit 0> worker=1
+I, [2021-05-26T14:26:05.263909 #3546]  INFO -- : reaped #<Process::Status: pid 3549 exit 0> worker=0
+I, [2021-05-26T14:26:05.264063 #3546]  INFO -- : master complete
+I, [2021-05-26T14:26:12.036479 #3817]  INFO -- : Refreshing Gem list
+I, [2021-05-26T14:26:14.388316 #3817]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T14:26:14.390110 #3817]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T14:26:14.390580 #3817]  INFO -- : worker=0 spawning...
+I, [2021-05-26T14:26:14.392750 #3817]  INFO -- : worker=1 spawning...
+I, [2021-05-26T14:26:14.393978 #3826]  INFO -- : worker=0 spawned pid=3826
+I, [2021-05-26T14:26:14.395411 #3817]  INFO -- : master process ready
+I, [2021-05-26T14:26:14.402149 #3826]  INFO -- : worker=0 ready
+I, [2021-05-26T14:26:14.403540 #3829]  INFO -- : worker=1 spawned pid=3829
+I, [2021-05-26T14:26:14.407323 #3829]  INFO -- : worker=1 ready
+I, [2021-05-26T14:31:15.979724 #3817]  INFO -- : reaped #<Process::Status: pid 3829 exit 0> worker=1
+I, [2021-05-26T14:31:16.080257 #3817]  INFO -- : reaped #<Process::Status: pid 3826 exit 0> worker=0
+I, [2021-05-26T14:31:16.080421 #3817]  INFO -- : master complete
+I, [2021-05-26T14:31:42.635778 #4176]  INFO -- : Refreshing Gem list
+I, [2021-05-26T14:31:44.983807 #4176]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T14:31:44.985640 #4176]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T14:31:44.986161 #4176]  INFO -- : worker=0 spawning...
+I, [2021-05-26T14:31:44.988453 #4176]  INFO -- : worker=1 spawning...
+I, [2021-05-26T14:31:44.990018 #4176]  INFO -- : master process ready
+I, [2021-05-26T14:31:45.012457 #4186]  INFO -- : worker=0 spawned pid=4186
+I, [2021-05-26T14:31:45.013878 #4186]  INFO -- : worker=0 ready
+I, [2021-05-26T14:31:45.015333 #4188]  INFO -- : worker=1 spawned pid=4188
+I, [2021-05-26T14:31:45.015839 #4188]  INFO -- : worker=1 ready
+I, [2021-05-26T14:36:19.135269 #4176]  INFO -- : reaped #<Process::Status: pid 4186 exit 0> worker=0
+I, [2021-05-26T14:36:19.135396 #4176]  INFO -- : reaped #<Process::Status: pid 4188 exit 0> worker=1
+I, [2021-05-26T14:36:19.135462 #4176]  INFO -- : master complete
+I, [2021-05-26T14:36:24.415331 #4434]  INFO -- : Refreshing Gem list
+I, [2021-05-26T14:36:26.773314 #4434]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T14:36:26.775183 #4434]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T14:36:26.775657 #4434]  INFO -- : worker=0 spawning...
+I, [2021-05-26T14:36:26.777799 #4434]  INFO -- : worker=1 spawning...
+I, [2021-05-26T14:36:26.779021 #4443]  INFO -- : worker=0 spawned pid=4443
+I, [2021-05-26T14:36:26.780434 #4434]  INFO -- : master process ready
+I, [2021-05-26T14:36:26.784835 #4443]  INFO -- : worker=0 ready
+I, [2021-05-26T14:36:26.786911 #4446]  INFO -- : worker=1 spawned pid=4446
+I, [2021-05-26T14:36:26.803068 #4446]  INFO -- : worker=1 ready
+I, [2021-05-26T14:37:34.805253 #4434]  INFO -- : reaped #<Process::Status: pid 4446 exit 0> worker=1
+I, [2021-05-26T14:37:34.905762 #4434]  INFO -- : reaped #<Process::Status: pid 4443 exit 0> worker=0
+I, [2021-05-26T14:37:34.905919 #4434]  INFO -- : master complete
+I, [2021-05-26T14:37:40.088409 #4634]  INFO -- : Refreshing Gem list
+I, [2021-05-26T14:37:42.513198 #4634]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T14:37:42.515678 #4634]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T14:37:42.516137 #4634]  INFO -- : worker=0 spawning...
+I, [2021-05-26T14:37:42.518153 #4634]  INFO -- : worker=1 spawning...
+I, [2021-05-26T14:37:42.519356 #4643]  INFO -- : worker=0 spawned pid=4643
+I, [2021-05-26T14:37:42.520730 #4634]  INFO -- : master process ready
+I, [2021-05-26T14:37:42.525770 #4643]  INFO -- : worker=0 ready
+I, [2021-05-26T14:37:42.527076 #4646]  INFO -- : worker=1 spawned pid=4646
+I, [2021-05-26T14:37:42.541288 #4646]  INFO -- : worker=1 ready
+I, [2021-05-26T14:43:21.992346 #4634]  INFO -- : reaped #<Process::Status: pid 4646 exit 0> worker=1
+I, [2021-05-26T14:43:22.092874 #4634]  INFO -- : reaped #<Process::Status: pid 4643 exit 0> worker=0
+I, [2021-05-26T14:43:22.093023 #4634]  INFO -- : master complete
+I, [2021-05-26T14:43:25.280435 #4921]  INFO -- : Refreshing Gem list
+I, [2021-05-26T14:43:27.581639 #4921]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T14:43:27.583481 #4921]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T14:43:27.584571 #4921]  INFO -- : worker=0 spawning...
+I, [2021-05-26T14:43:27.586652 #4921]  INFO -- : worker=1 spawning...
+I, [2021-05-26T14:43:27.587914 #4924]  INFO -- : worker=0 spawned pid=4924
+I, [2021-05-26T14:43:27.589384 #4921]  INFO -- : master process ready
+I, [2021-05-26T14:43:27.594508 #4924]  INFO -- : worker=0 ready
+I, [2021-05-26T14:43:27.595810 #4927]  INFO -- : worker=1 spawned pid=4927
+I, [2021-05-26T14:43:27.598926 #4927]  INFO -- : worker=1 ready
+I, [2021-05-26T14:46:48.444535 #4921]  INFO -- : reaped #<Process::Status: pid 4924 exit 0> worker=0
+I, [2021-05-26T14:46:48.444672 #4921]  INFO -- : reaped #<Process::Status: pid 4927 exit 0> worker=1
+I, [2021-05-26T14:46:48.444739 #4921]  INFO -- : master complete
+I, [2021-05-26T14:46:51.724370 #5153]  INFO -- : Refreshing Gem list
+I, [2021-05-26T14:46:54.020084 #5153]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T14:46:54.021914 #5153]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T14:46:54.022370 #5153]  INFO -- : worker=0 spawning...
+I, [2021-05-26T14:46:54.024528 #5153]  INFO -- : worker=1 spawning...
+I, [2021-05-26T14:46:54.025815 #5156]  INFO -- : worker=0 spawned pid=5156
+I, [2021-05-26T14:46:54.027320 #5153]  INFO -- : master process ready
+I, [2021-05-26T14:46:54.032538 #5156]  INFO -- : worker=0 ready
+I, [2021-05-26T14:46:54.033768 #5159]  INFO -- : worker=1 spawned pid=5159
+I, [2021-05-26T14:46:54.034886 #5159]  INFO -- : worker=1 ready
+I, [2021-05-26T14:47:55.438093 #5153]  INFO -- : reaped #<Process::Status: pid 5156 exit 0> worker=0
+I, [2021-05-26T14:47:55.438224 #5153]  INFO -- : reaped #<Process::Status: pid 5159 exit 0> worker=1
+I, [2021-05-26T14:47:55.438291 #5153]  INFO -- : master complete
+I, [2021-05-26T14:47:58.723078 #5353]  INFO -- : Refreshing Gem list
+I, [2021-05-26T14:48:01.125666 #5353]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T14:48:01.127482 #5353]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T14:48:01.127964 #5353]  INFO -- : worker=0 spawning...
+I, [2021-05-26T14:48:01.130066 #5353]  INFO -- : worker=1 spawning...
+I, [2021-05-26T14:48:01.131262 #5360]  INFO -- : worker=0 spawned pid=5360
+I, [2021-05-26T14:48:01.132738 #5353]  INFO -- : master process ready
+I, [2021-05-26T14:48:01.137838 #5360]  INFO -- : worker=0 ready
+I, [2021-05-26T14:48:01.139262 #5363]  INFO -- : worker=1 spawned pid=5363
+I, [2021-05-26T14:48:01.142991 #5363]  INFO -- : worker=1 ready
+I, [2021-05-26T16:25:31.053556 #5353]  INFO -- : reaped #<Process::Status: pid 5360 exit 0> worker=0
+I, [2021-05-26T16:25:31.053705 #5353]  INFO -- : reaped #<Process::Status: pid 5363 exit 0> worker=1
+I, [2021-05-26T16:25:31.053774 #5353]  INFO -- : master complete
+I, [2021-05-26T16:25:34.389146 #7091]  INFO -- : Refreshing Gem list
+I, [2021-05-26T16:25:36.775913 #7091]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T16:25:36.778394 #7091]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T16:25:36.779031 #7091]  INFO -- : worker=0 spawning...
+I, [2021-05-26T16:25:36.781363 #7091]  INFO -- : worker=1 spawning...
+I, [2021-05-26T16:25:36.782913 #7097]  INFO -- : worker=0 spawned pid=7097
+I, [2021-05-26T16:25:36.784554 #7091]  INFO -- : master process ready
+I, [2021-05-26T16:25:36.790666 #7097]  INFO -- : worker=0 ready
+I, [2021-05-26T16:25:36.795715 #7100]  INFO -- : worker=1 spawned pid=7100
+I, [2021-05-26T16:25:36.796624 #7100]  INFO -- : worker=1 ready
+I, [2021-05-26T16:28:39.259145 #7091]  INFO -- : reaped #<Process::Status: pid 7097 exit 0> worker=0
+I, [2021-05-26T16:28:39.259302 #7091]  INFO -- : reaped #<Process::Status: pid 7100 exit 0> worker=1
+I, [2021-05-26T16:28:39.259373 #7091]  INFO -- : master complete
+I, [2021-05-26T16:28:42.541684 #7407]  INFO -- : Refreshing Gem list
+I, [2021-05-26T16:28:44.848358 #7407]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T16:28:44.850657 #7407]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T16:28:44.851310 #7407]  INFO -- : worker=0 spawning...
+I, [2021-05-26T16:28:44.853568 #7407]  INFO -- : worker=1 spawning...
+I, [2021-05-26T16:28:44.854939 #7410]  INFO -- : worker=0 spawned pid=7410
+I, [2021-05-26T16:28:44.856493 #7407]  INFO -- : master process ready
+I, [2021-05-26T16:28:44.861852 #7410]  INFO -- : worker=0 ready
+I, [2021-05-26T16:28:44.863334 #7413]  INFO -- : worker=1 spawned pid=7413
+I, [2021-05-26T16:28:44.867310 #7413]  INFO -- : worker=1 ready
+I, [2021-05-26T16:28:56.031600 #7407]  INFO -- : reaped #<Process::Status: pid 7410 exit 0> worker=0
+I, [2021-05-26T16:28:56.031724 #7407]  INFO -- : reaped #<Process::Status: pid 7413 exit 0> worker=1
+I, [2021-05-26T16:28:56.031795 #7407]  INFO -- : master complete
+I, [2021-05-26T16:28:59.229645 #7584]  INFO -- : Refreshing Gem list
+NameError: uninitialized constant PhotoGallery2020
+  /home/ubuntu/deepak-sir-colg-project/project/app/admin/photo_gallery2020.rb:1:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/activeadmin-1.3.0/lib/active_admin/application.rb:234:in `block in load'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/activeadmin-1.3.0/lib/active_admin/error.rb:41:in `capture'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/activeadmin-1.3.0/lib/active_admin/application.rb:234:in `load'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/activeadmin-1.3.0/lib/active_admin/application.rb:226:in `block in load!'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/activeadmin-1.3.0/lib/active_admin/application.rb:226:in `each'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/activeadmin-1.3.0/lib/active_admin/application.rb:226:in `load!'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/activeadmin-1.3.0/lib/active_admin/application.rb:248:in `routes'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/activeadmin-1.3.0/lib/active_admin.rb:77:in `routes'
+  /home/ubuntu/deepak-sir-colg-project/project/config/routes.rb:4:in `block in <top (required)>'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/actionpack-4.2.8/lib/action_dispatch/routing/route_set.rb:432:in `instance_exec'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/actionpack-4.2.8/lib/action_dispatch/routing/route_set.rb:432:in `eval_block'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/actionpack-4.2.8/lib/action_dispatch/routing/route_set.rb:410:in `draw'
+  /home/ubuntu/deepak-sir-colg-project/project/config/routes.rb:1:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/railties-4.2.8/lib/rails/application/routes_reloader.rb:40:in `block in load_paths'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/railties-4.2.8/lib/rails/application/routes_reloader.rb:40:in `each'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/railties-4.2.8/lib/rails/application/routes_reloader.rb:40:in `load_paths'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/railties-4.2.8/lib/rails/application/routes_reloader.rb:16:in `reload!'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/railties-4.2.8/lib/rails/application.rb:170:in `reload_routes!'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/devise-4.4.3/lib/devise/rails.rb:17:in `block in <class:Engine>'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/activesupport-4.2.8/lib/active_support/lazy_load_hooks.rb:36:in `execute_hook'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/activesupport-4.2.8/lib/active_support/lazy_load_hooks.rb:45:in `block in run_load_hooks'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/activesupport-4.2.8/lib/active_support/lazy_load_hooks.rb:44:in `each'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/activesupport-4.2.8/lib/active_support/lazy_load_hooks.rb:44:in `run_load_hooks'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/railties-4.2.8/lib/rails/application/finisher.rb:55:in `block in <module:Finisher>'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/railties-4.2.8/lib/rails/initializable.rb:30:in `instance_exec'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/railties-4.2.8/lib/rails/initializable.rb:30:in `run'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/railties-4.2.8/lib/rails/initializable.rb:55:in `block in run_initializers'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/2.3.0/tsort.rb:228:in `block in tsort_each'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/2.3.0/tsort.rb:350:in `block (2 levels) in each_strongly_connected_component'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/2.3.0/tsort.rb:431:in `each_strongly_connected_component_from'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/2.3.0/tsort.rb:349:in `block in each_strongly_connected_component'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/2.3.0/tsort.rb:347:in `each'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/2.3.0/tsort.rb:347:in `call'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/2.3.0/tsort.rb:347:in `each_strongly_connected_component'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/2.3.0/tsort.rb:226:in `tsort_each'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/2.3.0/tsort.rb:205:in `tsort_each'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/railties-4.2.8/lib/rails/initializable.rb:54:in `run_initializers'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/railties-4.2.8/lib/rails/application.rb:352:in `initialize!'
+  /home/ubuntu/deepak-sir-colg-project/project/config/environment.rb:5:in `<top (required)>'
+  config.ru:4:in `require'
+  config.ru:4:in `block in <main>'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rack-1.6.10/lib/rack/builder.rb:55:in `instance_eval'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rack-1.6.10/lib/rack/builder.rb:55:in `initialize'
+  config.ru:1:in `new'
+  config.ru:1:in `<main>'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/unicorn-5.4.0/lib/unicorn.rb:56:in `eval'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/unicorn-5.4.0/lib/unicorn.rb:56:in `block in builder'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/unicorn-5.4.0/lib/unicorn/http_server.rb:795:in `build_app!'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/unicorn-5.4.0/lib/unicorn/http_server.rb:139:in `start'
+  /home/ubuntu/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/unicorn-5.4.0/bin/unicorn:126:in `<top (required)>'
+  /home/ubuntu/.rbenv/versions/2.3.1/bin/unicorn:23:in `load'
+  /home/ubuntu/.rbenv/versions/2.3.1/bin/unicorn:23:in `<top (required)>'
+I, [2021-05-26T16:31:41.880660 #7808]  INFO -- : Refreshing Gem list
+I, [2021-05-26T16:31:44.295655 #7808]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T16:31:44.297979 #7808]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T16:31:44.298591 #7808]  INFO -- : worker=0 spawning...
+I, [2021-05-26T16:31:44.300982 #7808]  INFO -- : worker=1 spawning...
+I, [2021-05-26T16:31:44.302394 #7817]  INFO -- : worker=0 spawned pid=7817
+I, [2021-05-26T16:31:44.304057 #7808]  INFO -- : master process ready
+I, [2021-05-26T16:31:44.309503 #7817]  INFO -- : worker=0 ready
+I, [2021-05-26T16:31:44.310967 #7820]  INFO -- : worker=1 spawned pid=7820
+I, [2021-05-26T16:31:44.326855 #7820]  INFO -- : worker=1 ready
+I, [2021-05-26T16:48:47.774688 #7808]  INFO -- : reaped #<Process::Status: pid 7817 exit 0> worker=0
+I, [2021-05-26T16:48:47.774846 #7808]  INFO -- : reaped #<Process::Status: pid 7820 exit 0> worker=1
+I, [2021-05-26T16:48:47.774915 #7808]  INFO -- : master complete
+I, [2021-05-26T16:48:51.052846 #8313]  INFO -- : Refreshing Gem list
+I, [2021-05-26T16:48:53.348608 #8313]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T16:48:53.350860 #8313]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T16:48:53.351444 #8313]  INFO -- : worker=0 spawning...
+I, [2021-05-26T16:48:53.353740 #8313]  INFO -- : worker=1 spawning...
+I, [2021-05-26T16:48:53.355159 #8316]  INFO -- : worker=0 spawned pid=8316
+I, [2021-05-26T16:48:53.356788 #8313]  INFO -- : master process ready
+I, [2021-05-26T16:48:53.362072 #8316]  INFO -- : worker=0 ready
+I, [2021-05-26T16:48:53.363442 #8319]  INFO -- : worker=1 spawned pid=8319
+I, [2021-05-26T16:48:53.367085 #8319]  INFO -- : worker=1 ready
+I, [2021-05-26T17:26:38.733316 #8313]  INFO -- : reaped #<Process::Status: pid 8316 exit 0> worker=0
+I, [2021-05-26T17:26:38.733472 #8313]  INFO -- : reaped #<Process::Status: pid 8319 exit 0> worker=1
+I, [2021-05-26T17:26:38.733563 #8313]  INFO -- : master complete
+I, [2021-05-26T17:26:42.020421 #9104]  INFO -- : Refreshing Gem list
+I, [2021-05-26T17:26:44.329881 #9104]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T17:26:44.331990 #9104]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T17:26:44.332525 #9104]  INFO -- : worker=0 spawning...
+I, [2021-05-26T17:26:44.334817 #9104]  INFO -- : worker=1 spawning...
+I, [2021-05-26T17:26:44.336163 #9107]  INFO -- : worker=0 spawned pid=9107
+I, [2021-05-26T17:26:44.337712 #9104]  INFO -- : master process ready
+I, [2021-05-26T17:26:44.342977 #9107]  INFO -- : worker=0 ready
+I, [2021-05-26T17:26:44.344236 #9110]  INFO -- : worker=1 spawned pid=9110
+I, [2021-05-26T17:26:44.346911 #9110]  INFO -- : worker=1 ready
+I, [2021-05-26T17:38:10.912700 #9104]  INFO -- : reaped #<Process::Status: pid 9107 exit 0> worker=0
+I, [2021-05-26T17:38:10.912824 #9104]  INFO -- : reaped #<Process::Status: pid 9110 exit 0> worker=1
+I, [2021-05-26T17:38:10.912892 #9104]  INFO -- : master complete
+I, [2021-05-26T17:38:14.200653 #9543]  INFO -- : Refreshing Gem list
+I, [2021-05-26T17:38:16.528420 #9543]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T17:38:16.530959 #9543]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T17:38:16.531478 #9543]  INFO -- : worker=0 spawning...
+I, [2021-05-26T17:38:16.533656 #9543]  INFO -- : worker=1 spawning...
+I, [2021-05-26T17:38:16.535751 #9543]  INFO -- : master process ready
+I, [2021-05-26T17:38:16.540890 #9546]  INFO -- : worker=0 spawned pid=9546
+I, [2021-05-26T17:38:16.541531 #9546]  INFO -- : worker=0 ready
+I, [2021-05-26T17:38:16.563077 #9549]  INFO -- : worker=1 spawned pid=9549
+I, [2021-05-26T17:38:16.563869 #9549]  INFO -- : worker=1 ready
+I, [2021-05-26T17:46:16.663233 #9543]  INFO -- : reaped #<Process::Status: pid 9546 exit 0> worker=0
+I, [2021-05-26T17:46:16.663374 #9543]  INFO -- : reaped #<Process::Status: pid 9549 exit 0> worker=1
+I, [2021-05-26T17:46:16.663447 #9543]  INFO -- : master complete
+I, [2021-05-26T17:46:20.046446 #9871]  INFO -- : Refreshing Gem list
+I, [2021-05-26T17:46:22.361193 #9871]  INFO -- : unlinking existing socket=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock
+I, [2021-05-26T17:46:22.363193 #9871]  INFO -- : listening on addr=/home/ubuntu/deepak-sir-colg-project/project/shared/sockets/unicorn.sock fd=12
+I, [2021-05-26T17:46:22.363703 #9871]  INFO -- : worker=0 spawning...
+I, [2021-05-26T17:46:22.365878 #9871]  INFO -- : worker=1 spawning...
+I, [2021-05-26T17:46:22.367165 #9874]  INFO -- : worker=0 spawned pid=9874
+I, [2021-05-26T17:46:22.368689 #9871]  INFO -- : master process ready
+I, [2021-05-26T17:46:22.373738 #9874]  INFO -- : worker=0 ready
+I, [2021-05-26T17:46:22.388381 #9877]  INFO -- : worker=1 spawned pid=9877
+I, [2021-05-26T17:46:22.389546 #9877]  INFO -- : worker=1 ready

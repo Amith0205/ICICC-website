@@ -132,6 +132,11 @@ class HomeController < ApplicationController
 
   end
 
+  def icicc_2021
+    @important_dates = ImportantDate.all.sort_by &:date
+  end
+
+
   def icicc_2020
     @important_dates = ImportantDate.all.sort_by &:date
   end
