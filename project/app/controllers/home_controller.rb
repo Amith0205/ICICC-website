@@ -8,6 +8,7 @@ class HomeController < ApplicationController
     @keynotespeaker = KeyNoteSpeaker.all
     @downloads=Download.all
     @proceeding_partners = ProceedingPartner.all
+    @aboutconference = AboutConference.last.description
 
   end
 
