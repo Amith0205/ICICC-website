@@ -54,7 +54,7 @@ Devise.setup do |config|
   config.strip_whitespace_keys = [:email]
   
   # Secret key 
-  config.secret_key = ENV['DEVISE_SECRET_KEY'] if Rails.env.production?
+  # config.secret_key = ENV['DEVISE_SECRET_KEY'] if Rails.env.production?
 
   # Tell if authentication through request.params is enabled. True by default.
   # It can be set to an array that will enable params authentication only for the
