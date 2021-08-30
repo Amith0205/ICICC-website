@@ -1,33 +1,36 @@
-
 <section class="sub-page" id="about_institute">
   <div class="row">
     <div class="col-md-8">
       <div class="left">
         <h1>About Institute</h1>
         <hr>
+        <h2>About SSCBS</h2>
         <p>
-            <%=@about_institute%> 
+          <%=@about_institute%>
         </p>
       </div>
 
     </div>
     <div class="col-md-4">
       <div class="box left">
-          <h1 class="custom-font">Important Dates</h1>
-          <hr>
-
-          <marquee behavior="" direction="up"  truespeed="true" scrolldelay = "150" onmouseover="this.stop();" onmouseout="this.start();" >
-              <% @important_dates.each do |impdate| %>
-                  <b><%= impdate.title %></b>
-                  <br>
-                  <%= impdate.date.to_date.to_formatted_s(:long_ordinal) %>
-                  <br><hr />
+        <h1 class="custom-font">Important Dates</h1>
+        <hr>
+        <marquee behavior="" direction="up" truespeed="true" scrolldelay="150" onmouseover="this.stop();"
+          onmouseout="this.start();">
+          <% @important_dates.each do |impdate| %>
+            <b>
+              <%= impdate.title %>
+            </b>
+            <br>
+            <%= impdate.date.to_date.to_formatted_s(:long_ordinal) %>
+              <br>
+              <hr />
 
               <% end %>
 
 
-            </marquee>
-            <span> <a href="/important_dates">Read More...</a> </span>
+        </marquee>
+        <span> <a href="/important_dates">Read More...</a> </span>
 
       </div>
     </div>
