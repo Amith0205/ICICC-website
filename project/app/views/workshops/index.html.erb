@@ -1,4 +1,3 @@
-
 <div class="sub-page">
     <div class="row">
         <div class="col-md-8">
@@ -7,20 +6,25 @@
             <div class="left">
                 <div class="alert alert-info" role="alert">
                     <h3 class="alert-heading">
-                        <b>Future Generation Intelligent Systems for Biomedical Applications</b>
+                        <b>Intelligent Systems for Sustainable Smart Cities (I3SC)</b>
                     </h3>
                     <hr>
                     <h4 class="alert-heading">
                         <b>WORKSHOP ORGANIZERS: </b>
                     </h4>
-                        <p class="card-text">
-                            Dr. Utku Kose, Suleyman Demirel University, Turkey <br> 
-                            <a href="#">utkukose@sdu.edu.tr</a>
-                        </p>
-                    <hr>
-                    <a href="/workshops/1" class="btn btn-primary">Read more...</a>
+                    <p class="card-text">
+                        1) Mariya Ouaissa, Moulay Ismail University Meknes, Morocco<br>
+                        <a href="mailto:mariya.ouaissa@edu.umi.ac.ma">mariya.ouaissa@edu.umi.ac.ma</a>
+                        <br>
+                        2) Mariyam Ouaissa, Moulay Ismail University Meknes, Morocco
+                        <a href="mailto:mariya.ouaissa@edu.umi.ac.ma">mariyam.ouaissa@edu.umi.ac.ma</a>
+                        <br>
+                        3) Zakaria Boulouard, Hassan II University Casablanca, Morocco
+                        <a href="mailto:zakaria.boulouard@fstm.ac.ma" </p>
+                            <hr>
+                            <a href="./WS-001.pdf" class="btn btn-primary">Read more...</a>
                 </div>
-                <div class="alert alert-info" role="alert">
+                <!-- <div class="alert alert-info" role="alert">
                     <h3 class="alert-heading">
                         <b>Sustainable Heterogeneous Energy-Aware Systems for Next Generation Devices and Networks</b>
                     </h3>
@@ -28,16 +32,19 @@
                     <h4 class="alert-heading">
                         <b>WORKSHOP ORGANIZERS: </b>
                     </h4>
-                        <p class="card-text">
-                            1) Mazin Abed Mohammed, Ph.D. College of Computer Science and Information Technology, University of Anbar, Iraq. <br>
-                            <a href="#">mazinalshujeary@uoanbar.edu.iq</a>
-                            <br>
-                            2) Korhan Cengiz, PhD, SMIEE Department of Electrical-Electronics Engineering Trakya University, 22030, Edirne, Turkey
-                            <a href="#">korhancengiz@ieee.org</a>
-                            <br>
-                            3) Dr. Mashael S. Maashi, PhD. Software Engineering Department, College of Computer and Information Sciences, King Saud University; Saudi Arabia.<br>
-                            <a href="#">mmaashi@ksu.edu.sa</a>
-                        </p>
+                    <p class="card-text">
+                        1) Mazin Abed Mohammed, Ph.D. College of Computer Science and Information Technology, University
+                        of Anbar, Iraq. <br>
+                        <a href="#">mazinalshujeary@uoanbar.edu.iq</a>
+                        <br>
+                        2) Korhan Cengiz, PhD, SMIEE Department of Electrical-Electronics Engineering Trakya University,
+                        22030, Edirne, Turkey
+                        <a href="#">korhancengiz@ieee.org</a>
+                        <br>
+                        3) Dr. Mashael S. Maashi, PhD. Software Engineering Department, College of Computer and
+                        Information Sciences, King Saud University; Saudi Arabia.<br>
+                        <a href="#">mmaashi@ksu.edu.sa</a>
+                    </p>
                     <hr>
                     <a href="/workshops/2" class="btn btn-primary">Read more...</a>
                 </div>
@@ -49,30 +56,34 @@
                     <h4 class="alert-heading">
                         <b>WORKSHOP ORGANIZERS: </b>
                     </h4>
-                        <p class="card-text">
-                            1) Hanane Allioui, Cadi Ayyad University, Morocco <br>
-                            <a href="#">Hananeallioui@gmail.com</a>
-                            <br>
-                            2) Azzeddine Allioui, Cadi Ayyad University, Morocco <br>
-                            <a href="#">korhancengiz@ieee.org</a>
-                        </p>
+                    <p class="card-text">
+                        1) Hanane Allioui, Cadi Ayyad University, Morocco <br>
+                        <a href="#">Hananeallioui@gmail.com</a>
+                        <br>
+                        2) Azzeddine Allioui, Cadi Ayyad University, Morocco <br>
+                        <a href="#">korhancengiz@ieee.org</a>
+                    </p>
                     <hr>
                     <a href="/workshops/3" class="btn btn-primary">Read more...</a>
-                </div>
+                </div> -->
             </div>
         </div>
         <div class="col-md-4">
             <div class="box left">
                 <h1 class="custom-font">Important Dates</h1>
                 <hr>
-                <marquee behavior="" direction="up"  truespeed="true" scrolldelay = "150" onmouseover="this.stop();" onmouseout="this.start();" >
+                <marquee behavior="" direction="up" truespeed="true" scrolldelay="150" onmouseover="this.stop();"
+                    onmouseout="this.start();">
                     <% @important_dates.each do |impdate| %>
-                        <b><%= impdate.title %></b>
+                        <b>
+                            <%= impdate.title %>
+                        </b>
                         <br>
                         <%= impdate.date.to_date.to_formatted_s(:long_ordinal) %>
-                        <br><hr />
+                            <br>
+                            <hr />
 
-                    <% end %>
+                            <% end %>
                 </marquee>
                 <span> <a href="/important_dates">Read More...</a> </span>
             </div>
