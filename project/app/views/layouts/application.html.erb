@@ -5,6 +5,13 @@
   <title>ICICC | International Conference on Innovative Computing and Communication</title>
 
 
+  <style>
+    .logo-header {
+      width:100%;
+      display: flex;
+      justify-content: center;
+    }
+ </style>
   <%= stylesheet_link_tag 'application' , media: 'all' , 'data-turbolinks-track'=> true %>
     <%= javascript_include_tag 'application' , 'data-turbolinks-track'=> true %>
 
@@ -37,31 +44,31 @@
   <div class="container-fluid">
 
 
-    <div style="margin: 25px" class="non-sticky-header">
-      <div class="logo-header">
-        <img src="/gallery/logo.png" alt="logo">
-        <img src="/logo2.jpeg" alt="logo">
+  <div style="margin:10px;">
+    <div class="row">
+      <div class="col-md-2 logo-header">
+        <img src="/gallery/logo.png" alt="logo" height="100px" width="100px">
+        <img src="/logo2.jpeg" alt="logo" height="100px" width="100px">
       </div>
 
-      <div class="title-for-header custom-font">
-
-        <h2><strong>5<sup>th</sup> INTERNATIONAL CONFERENCE ON INNOVATIVE COMPUTING AND COMMUNICATION <br /> (ICICC
-            2022)</strong> </h2>
-        <h5><strong>ORGANISED BY : SHAHEED SUKHDEV COLLEGE OF BUSINESS STUDIES, UNIVERSITY OF DELHI, NEW DELHI<br>IN
+      <div class="col-md-7">
+        <h4 class="text-center"><strong>5<sup>th</sup> INTERNATIONAL CONFERENCE ON INNOVATIVE COMPUTING AND COMMUNICATION <br /> (ICICC
+            2022)</strong> 
+        </h4>
+        <h5 class="text-center"><strong>ORGANISED BY : SHAHEED SUKHDEV COLLEGE OF BUSINESS STUDIES, UNIVERSITY OF DELHI, NEW DELHI<br>IN
             ASSOCIATION WITH<br>NATIONAL INSTITUTE OF TECHNOLOGY PATNA & KOREA INSTITUTE OF DIGITAL CONVERGENCE, SOUTH
             KOREA<br>UNIVERSITY OF VALLADOLID, SPAIN
-            <br />19-20th FEBRUARY, 2022</strong></h5>
-
-
-
-      </div>
-      <div class="logo-header">
-        <img src="/gallery/logospain.png" alt="logo">
-        <img src="/gallery/kidico.png" alt="logo">
-        <img src="/gallery/Springer.png" alt="logo">
+            <br />19-20th FEBRUARY, 2022</strong>
+        </h5>
       </div>
 
+      <div class="col-md-3 logo-header">
+        <img src="/gallery/logospain.png" alt="logo" height="100px" width="100px">
+        <img src="/gallery/kidico.png" alt="logo" height="100px" width="100px">
+        <img src="/gallery/Springer.png" alt="logo" height="100px" width="100px">
+      </div>
     </div>
+  </div>
 
     <div class="sticky-header-main-all">
 
