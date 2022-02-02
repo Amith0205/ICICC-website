@@ -15,6 +15,7 @@ Rails.application.routes.draw do
   get '/about_universal_innovators' => "home#about_universal_innovators"
   get '/call_for_papers' => "home#call_for_papers"
   get '/registration' => "home#registration"
+  get '/uila-registration' => "home#registration-uila"
   get '/steeringcommittee' => "home#steeringcommittee"
   get '/industryexpert' => "home#industryexpert"
   get '/technicalprogramcommittee' => "home#technicalprogramcommittee"

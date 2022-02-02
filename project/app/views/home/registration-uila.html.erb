@@ -1,0 +1,130 @@
+<section class="sub-page" id="registration">
+  <div class="row">
+    <div class="col-md-8">
+      <div class="left">
+        <h1>Registration Details for Participation in UILA 2022 </h1>
+        <hr>
+        <div style="border: 1px solid black ; padding:20px">
+          <h4 class="text-center text-dark"><b> Pay via Bank Transfer</b></h4>
+          <table class="table table-bordered table-hover">
+            <tbody>
+              <tr>
+                <td><b>ACCOUNT NAME </b></td>
+                <td> UI CONFERENCES</td>
+              </tr>
+              <tr>
+                <td><b>ACCOUNT NUMBER </b></td>
+                <td> 50200064207124</td>
+              </tr>
+              <tr>
+                <td><b>BANK </b></td>
+                <td> HDFC Bank</td>
+              </tr>
+              <tr>
+                <td><b>BRANCH </b></td>
+                <td> Sector-15, Rohini Delhi </td>
+              </tr>
+              <tr>
+                <td><b> IFSC CODE </b></td>
+                <td> HDFC0004782 </td>
+              </tr>
+              <tr>
+                <td><b> ACCOUNT TYPE </b></td>
+                <td> CURRENT</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <hr style="border: 1px solid black">
+
+          <div class="col text-center">
+            <h4 class="text-center text-dark"><b> Pay via PayPal</b></h4>
+            <p class="text-center text-dark">For Payment from International Authors/Attendees, use the following paypal link with additional 5% service charges applies</p>
+            <br/>
+            <button type="button" class="btn btn-primary text-center"> 
+              <a style="color:white" href="https://paypal.me/ICICCConference?locale.x=en_GB"  target="_blank" >
+                <b>Click Here to pay fees via PayPal</b> 
+              </a>
+            </button>
+          </div>
+
+          <hr style="border: 1px solid black">
+
+          <div class="col text-center">
+            <h4 class="text-center text-dark"><b> Pay via RazorPay</b></h4>
+            <p class="text-center text-dark">For payment from Indian Authors/Attendees, use the following payment link</p>
+            <div class="razorpay-embed-btn" data-url="https://rzp.io/l/HESkM2Tm4e" data-text="Pay Now" data-color="#528FF0" data-size="large">
+              <script>
+                (function(){
+                  var d=document; var x=!d.getElementById('razorpay-embed-btn-js')
+                  if(x){ var s=d.createElement('script'); s.defer=!0;s.id='razorpay-embed-btn-js';
+                  s.src='https://cdn.razorpay.com/static/embed_btn/bundle.js';d.body.appendChild(s);} else{var rzp=window['__rzp__'];
+                  rzp && rzp.init && rzp.init()}})();
+              </script>
+            </div>
+          </div>    
+        </div>
+
+
+
+        <!-- <a class="waves-effect waves-light btn">Download Registration Form <i class="fa fa-download" aria-hidden="true"></i>
+        </a> -->
+
+        <h3 class="text-center">Registration Fee for Participation in UILA 2022</h3>
+        <table class="table table-bordered table-hover">
+          <thead>
+            <tr>
+              <th><b>Category</b></th>
+              <th><b>Registration fee for participation </b></th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <tr>
+              <td>Research Scholar/Student</td>
+              <td>INR 7000</td>
+            </tr>
+            <tr>
+              <td>Academician</td>
+              <td>INR 8000</td>
+            </tr>
+            <tr>
+              <td>Industrial Participants</td>
+              <td>INR 9000</td>
+            </tr>
+            <tr>
+              <td>Foreigner Participant (Outside India)</td>
+              <td>USD 200</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      
+      <br>
+    </div>
+    <div class="col-md-4">
+      <div class="box right">
+        <h1 class="custom-font">Important Dates</h1>
+        <hr>
+
+        <marquee behavior="" direction="up" truespeed="true" scrolldelay="150" onmouseover="this.stop();"
+          onmouseout="this.start();">
+          <% @important_dates.each do |impdate| %>
+            <b>
+              <%= impdate.title %>
+            </b>
+            <br>
+            <%= impdate.date.to_date.to_formatted_s(:long_ordinal) %>
+              <br>
+              <hr />
+
+              <% end %>
+
+
+        </marquee>
+        <span> <a href="/important_dates">Read More...</a> </span>
+
+      </div>
+    </div>
+  </div>
+</section>
