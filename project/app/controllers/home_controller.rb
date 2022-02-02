@@ -90,6 +90,10 @@ class HomeController < ApplicationController
 
   end
 
+  def registration_uila
+    @important_dates = ImportantDate.all.sort_by &:date
+  end
+
   def steeringcommittee
     @steercompost = SteerComPost.all
     @important_dates = ImportantDate.all.sort_by &:date
