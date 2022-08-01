@@ -23,7 +23,7 @@ class HomeController < ApplicationController
   end
 
   def about_institute
-    @about_institute = AboutInstitute.last.content
+    @about_institute = AboutInstitute.all
     @important_dates = ImportantDate.all.sort_by &:date
 
   def awards
@@ -134,6 +134,10 @@ class HomeController < ApplicationController
   def speakers
     @important_dates = ImportantDate.all.sort_by &:date
 
+  end
+
+  def icicc_2022
+    @important_dates = ImportantDate.all.sort_by &:date
   end
 
   def icicc_2021

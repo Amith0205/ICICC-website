@@ -32,6 +32,7 @@ Rails.application.routes.draw do
   get '/icicc_2019' => "home#icicc_2019"
   get '/icicc_2020' => "home#icicc_2020"
   get '/icicc_2021' => "home#icicc_2021"
+  get '/icicc_2022' => "home#icicc_2022"
   get '/speakers' => "home#speakers"
   get '/workshops'   => "workshops#index"
   get '/workshops/1'   => "workshops#one"
